@@ -11,7 +11,7 @@ This Power BI project explores and visualizes user and order data from Zomato. T
 - 🏙️ City-wise orders, ratings, and user stats
 - 🗓️ Sales trends by year
 
-Designed with a modern, intuitive layout to simplify data-driven decisions for food delivery businesses.
+
 ---
 
 ### 🍛 **Food Category Dashboard**
@@ -31,7 +31,7 @@ Designed with a modern, intuitive layout to simplify data-driven decisions for f
 
 ### 🧑‍💻 **User Dashboard**
 
-<img src="User_Dashboard.jpg" alt="User Dashboard" width="800"/>
+<img src="User Dashboard.jpg" alt="User Dashboard" width="800"/>
 
 - 👤 **78K Active Users**
 - 📦 **150K Total Orders**
@@ -45,7 +45,7 @@ Designed with a modern, intuitive layout to simplify data-driven decisions for f
 
 ### 🏙️ **City Performance Dashboard**
 
-<img src="City_Dashboard.jpg" alt="City Dashboard" width="800"/>
+<img src="City Dashboard.jpg" alt="City Dashboard" width="800"/>
 
 - 🌍 Cities Analyzed: 150+
 - 🔝 Top City by Sales: **Adityapur** (₹2.4M)
