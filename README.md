@@ -13,6 +13,7 @@ This Power BI project explores and visualizes user and order data from Zomato. T
 
 
 ---
+## 📷 Dashboards Previews
 
 ### 🍛 **Food Category Dashboard**
 
@@ -27,7 +28,6 @@ This Power BI project explores and visualizes user and order data from Zomato. T
 
 ---
 
-## 📷 Dashboards Preview
 
 ### 🧑‍💻 **User Dashboard**
 
@@ -67,8 +67,8 @@ This Power BI project explores and visualizes user and order data from Zomato. T
 
 ## 📁 Files Included
 
-- `ZomatoDashboard.pbix` – Main Power BI report  
-- `food.xlsx` – Raw dataset used in the dashboard
+- [ZomatoDashboard.pbix](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Main Power BI report  
+- [food.xlsx](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Raw dataset used in the dashboard
 
 ---
 
