@@ -1,60 +1,101 @@
-# 🍽️ Zomato Data Analysis using Power BI
+<h1 align="center">🍽️ Zomato Power BI Dashboard</h1>
 
-This project analyzes Zomato user behavior, sales patterns, and city-wise performance using Power BI visualizations. It provides interactive dashboards to help understand user growth, order trends, food category performance, and demographic insights.
-
----
-
-## 📊 Dashboards Overview
-
-### 🧑‍💻 User Dashboard
-![User Dashboard](User Dashboard.jpg)
-
-- 👤 Active Users: 78K  
-- 🧾 Total Orders: 150K  
-- ⭐ Ratings Count: 148K  
-- 📈 Gain & Loss by Gender:
-  - Gained Users: 12K (Male: 6.5K, Female: 5.1K)
-  - Lost Users: 33K (Male: 19K, Female: 14K)
-- 👶 Age Distribution: Most users are aged between 20–25
+<p align="center">
+  Interactive dashboards to analyze Zomato's user behavior, sales trends, and city performance.
+</p>
 
 ---
 
-### 🍛 Food Category Dashboard
-![Food Dashboard](Dashboard_1.jpg)
+## 📌 Project Description
 
-- 🥗 Veg: 156K Orders (12K Ratings)  
-- 🍗 Non-Veg: 140K Orders (10K Ratings)  
-- 🍟 Others: 14K Orders (927 Ratings)  
-- 💵 Revenue: ₹987M  
-- 🏙️ Top Sales City: Electronic City  
-- 📅 Sales Trend by Year (2017–2020)
+This Power BI project explores and visualizes user and order data from Zomato. The dashboard provides valuable insights into:
 
----
+- 📈 User growth and loss by gender and age
+- 🍲 Food category performance (Veg, Non-Veg, Others)
+- 🏙️ City-wise orders, ratings, and user stats
+- 🗓️ Sales trends by year
 
-### 🏙️ City Dashboard
-![City Dashboard](City_Dashboard.jpg)
-
-- 🌐 Cities Covered: 150+  
-- 📈 Top Performing City: Adityapur (Sales: ₹2.4M+, Orders: 448)  
-- 📌 Insights on Ratings, Users, and Lost Users by City
+Designed with a modern, intuitive layout to simplify data-driven decisions for food delivery businesses.
 
 ---
 
-## ⚙️ Tools Used
-- **Power BI** – Dashboard Creation  
-- **Excel** – Data Preprocessing  
-- **DAX** – Measures  
-- **Power Query** – Data Transformation  
+## 📷 Dashboards Preview
+
+### 🧑‍💻 **User Dashboard**
+
+<img src="user_dashboard.jpg" alt="User Dashboard" width="800"/>
+
+- 👤 **78K Active Users**
+- 📦 **150K Total Orders**
+- 📊 **Gain & Loss by Gender**
+  - ✅ 12K Gained Users (Male: 6.5K | Female: 5.1K)
+  - ❌ 33K Lost Users (Male: 19K | Female: 14K)
+- 📊 **Users by Age** — Peak usage in 20–25 age group
 
 ---
 
-## 📁 Project Files
-- [ZomatoDashboard.pbix](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Power BI file  
-- [food.xlsx](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Raw data  
+### 🍛 **Food Category Dashboard**
+
+<img src="food_dashboard.jpg" alt="Food Dashboard" width="800"/>
+
+- 💰 **₹987M Total Amount**
+- 🥗 Veg: 156K Orders | ⭐ 12K Ratings  
+- 🍗 Non-Veg: 140K Orders | ⭐ 10K Ratings  
+- 🍟 Others: 14K Orders | ⭐ 927 Ratings  
+- 🏙️ Top Selling City: **Electronic City**
+- 📉 Yearly Sales Trends (2017–2020)
 
 ---
 
-## 🔗 Project Link  
-📥 [Download from Google Drive](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) 
+### 🏙️ **City Performance Dashboard**
 
+<img src="city_dashboard.jpg" alt="City Dashboard" width="800"/>
 
+- 🌍 Cities Analyzed: 150+
+- 🔝 Top City by Sales: **Adityapur** (₹2.4M)
+- 📊 Gain/Loss, Rating & User data by City
+- 🗃️ Sortable city-wise metrics for business insights
+
+---
+
+## ⚙️ Tools & Technologies
+
+| Tool       | Usage                         |
+|------------|-------------------------------|
+| Power BI   | Dashboard design & visualization |
+| Power Query| Data transformation & modeling |
+| DAX        | Calculated columns & measures |
+| Excel      | Data cleaning & input         |
+
+---
+
+## 📁 Files Included
+
+- `ZomatoDashboard.pbix` – Main Power BI report  
+- `food.xlsx` – Raw dataset used in the dashboard
+
+---
+
+## 💡 Key Insights
+
+- 🧍‍♂️ Majority of users are aged 20–25
+- 📉 More male users lost than female users
+- 🥗 Veg dishes are the most ordered food category
+- 📍 Electronic City is the highest sales-generating city
+
+---
+
+## 🔗 Project Access
+
+👉 [**Click Here to Download via Google Drive**]()
+
+---
+
+## 👨‍💻 Author
+
+**Magesh M**  
+🎓 B.E. Computer Science | 🎯 Aspiring Data Analyst   
+📧 mageshmm361@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/magesh-mg) | [GitHub](https://github.com/Magesh361)
+
+---
