@@ -7,7 +7,7 @@ This project analyzes Zomato user behavior, sales patterns, and city-wise perfor
 ## 📊 Dashboards Overview
 
 ### 🧑‍💻 User Dashboard
-![User Dashboard](UserDashboard.jpg)
+![User Dashboard](User Dashboard.jpg)
 
 - 👤 Active Users: 78K  
 - 🧾 Total Orders: 150K  
@@ -49,8 +49,8 @@ This project analyzes Zomato user behavior, sales patterns, and city-wise perfor
 ---
 
 ## 📁 Project Files
-- `ZomatoDashboard.pbix` – Power BI file  
-- `food.xlsx` – Raw data  
+- [ZomatoDashboard.pbix](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Power BI file  
+- [food.xlsx](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) – Raw data  
 
 ---
 
