@@ -1,9 +1,5 @@
 <h1 align="center">🍽️ Zomato Power BI Dashboard</h1>
 
-<p align="center">
-  Interactive dashboards to analyze Zomato's user behavior, sales trends, and city performance.
-</p>
-
 ---
 
 ## 📌 Project Description
@@ -16,27 +12,11 @@ This Power BI project explores and visualizes user and order data from Zomato. T
 - 🗓️ Sales trends by year
 
 Designed with a modern, intuitive layout to simplify data-driven decisions for food delivery businesses.
-
----
-
-## 📷 Dashboards Preview
-
-### 🧑‍💻 **User Dashboard**
-
-<img src="user_dashboard.jpg" alt="User Dashboard" width="800"/>
-
-- 👤 **78K Active Users**
-- 📦 **150K Total Orders**
-- 📊 **Gain & Loss by Gender**
-  - ✅ 12K Gained Users (Male: 6.5K | Female: 5.1K)
-  - ❌ 33K Lost Users (Male: 19K | Female: 14K)
-- 📊 **Users by Age** — Peak usage in 20–25 age group
-
 ---
 
 ### 🍛 **Food Category Dashboard**
 
-<img src="food_dashboard.jpg" alt="Food Dashboard" width="800"/>
+<img src="Dashboard_1.jpg" alt="Food Dashboard" width="800"/>
 
 - 💰 **₹987M Total Amount**
 - 🥗 Veg: 156K Orders | ⭐ 12K Ratings  
@@ -47,9 +27,25 @@ Designed with a modern, intuitive layout to simplify data-driven decisions for f
 
 ---
 
+## 📷 Dashboards Preview
+
+### 🧑‍💻 **User Dashboard**
+
+<img src="User_Dashboard.jpg" alt="User Dashboard" width="800"/>
+
+- 👤 **78K Active Users**
+- 📦 **150K Total Orders**
+- 📊 **Gain & Loss by Gender**
+  - ✅ 12K Gained Users (Male: 6.5K | Female: 5.1K)
+  - ❌ 33K Lost Users (Male: 19K | Female: 14K)
+- 📊 **Users by Age** — Peak usage in 20–25 age group
+
+
+---
+
 ### 🏙️ **City Performance Dashboard**
 
-<img src="city_dashboard.jpg" alt="City Dashboard" width="800"/>
+<img src="City_Dashboard.jpg" alt="City Dashboard" width="800"/>
 
 - 🌍 Cities Analyzed: 150+
 - 🔝 Top City by Sales: **Adityapur** (₹2.4M)
@@ -87,14 +83,14 @@ Designed with a modern, intuitive layout to simplify data-driven decisions for f
 
 ## 🔗 Project Access
 
-👉 [**Click Here to Download via Google Drive**]()
+👉 [**Click Here to Download via Google Drive**](https://drive.google.com/drive/folders/11A1-niKDa2jPP1CDL1bJjdm3uyG482zd) 
 
 ---
 
 ## 👨‍💻 Author
 
 **Magesh M**  
-🎓 B.E. Computer Science | 🎯 Aspiring Data Analyst   
+🎯 Aspiring Data Analyst   
 📧 mageshmm361@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/magesh-mg) | [GitHub](https://github.com/Magesh361)
 
